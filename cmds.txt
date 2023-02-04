@@ -1,0 +1,2 @@
+# to add tailwind
+npm install -D tailwindcss autoprefixer postcss 
